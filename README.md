@@ -1,4 +1,4 @@
 germboy-internal
 ================
 
-Just a blank repo
+Repo version 1.0
