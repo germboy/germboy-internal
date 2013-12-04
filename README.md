@@ -1,4 +1,4 @@
 germboy-internal
 ================
 
-Repo version 1.1 (updated)
+Repo version 1.2
